@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Giant Bird of Paradise",
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/143324fa29fb--pl-giantbirdofparadise-6in-po-grower-a95692_990x.jpg?v=1657295164",
+      "price": "40.00",
+      "id": 8
+    },
+    {
+      "name": "Variegated Laurentii Snake Plant",
+      "image": "https://cdn.shopify.com/s/files/1/0068/4215/5090/t/115/assets/636ad92b5102--pl-VariegatedLaurentiiSnakePlant-4IN-po-grower-4970e0_990x.jpg?v=1658795983",
+      "price": "30.40",
+      "id": 9
     }
   ]
 }
